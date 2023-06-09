@@ -26,7 +26,7 @@
   "secrets": [],
   "jupyter_server": {
     "instance_type": "g4dnxlarge",
-    "disk_space": "10Gi",
+    "disk_space": "15Gi",
     "auto_shutoff": "1 hour",
     "start_ssh": false,
     "use_spot_instance": false,
